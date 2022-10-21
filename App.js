@@ -1,8 +1,8 @@
 import React from 'react';
 import { ScrollView, StyleSheet, View, Text, Image, TouchableOpacity } from 'react-native';
 import Card from './src/components/Card';
-import DashBoard from './src/components/DashBoard';
-import Questions from './src/components/Questions';
+import DashBoard from './src/pages/DashBoard';
+import Questions from './src/pages/Questions';
 
 export default function App(){
   return(
